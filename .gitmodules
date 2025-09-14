@@ -1,0 +1,4 @@
+[submodule "driver_ros_node"]
+	path = driver_ros_node
+	url = https://github.com/Bura-hub/Atriz_rvr.git
+	branch = main
