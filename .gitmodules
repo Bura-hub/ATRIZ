@@ -2,3 +2,7 @@
 	path = driver_ros_node
 	url = https://github.com/Bura-hub/Atriz_rvr.git
 	branch = main
+[submodule "frontend_and_backend"]
+	path = frontend_and_backend
+	url = https://github.com/Bura-hub/Atriz_web_server.git
+	branch = master
